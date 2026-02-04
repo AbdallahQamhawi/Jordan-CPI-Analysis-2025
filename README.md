@@ -144,6 +144,6 @@ Extend the analysis to multiple years to enable year over year comparison
 Incorporate exchange rate or tariff effects
 Expand essential classification methodology
 ## Dashboard Preview
-![](report/screenshots/overview.png)
-![](report/screenshots/drivers.png)
-![](report/screenshots/essentials.png)
+![](report/screenshots/overview1.png)
+![](report/screenshots/drivers_breakdown.png)
+![](report/screenshots/essentials1.png)
